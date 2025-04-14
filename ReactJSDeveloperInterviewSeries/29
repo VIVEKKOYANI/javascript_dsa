@@ -1,0 +1,61 @@
+function declaration and function expression in javascript
+
+what is template literals in javascript
+
+what is datatype in javascript
+
+what is difference between slice and splice in javascript
+
+how can we compare two objects in javascript
+
+console.log(![])
+
+🔍 console.log(![]) — What's happening here?
+[] is an empty array, and in JavaScript:
+
+js
+Copy
+Edit
+Boolean([]) // => true
+An empty array is a truthy value.
+
+The ! is the logical NOT operator — it inverts the truthiness.
+
+🔄 So:
+js
+Copy
+Edit
+![]  // => false
+Because:
+
+[] is truthy
+
+![] is not truthy → false
+
+✅ Final Answer:
+js
+Copy
+Edit
+console.log(![]); // false
+
+reverse string without in build function in javascript ?
+
+function reverseString(str) {
+  let reversed = "";
+
+  for (let i = str.length - 1; i >= 0; i--) {
+    reversed += str[i];
+  }
+
+  return reversed;
+}
+
+console.log(reverseString("hello")); // "olleh"
+
+first order function and higher order function in javascript ?
+
+function currying in javascript ?
+
+event bubbling and event capturing in javascript  ?
+
+how to handle asynchronous operations in javascript

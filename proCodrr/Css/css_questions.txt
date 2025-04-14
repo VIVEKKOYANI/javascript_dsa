@@ -1,0 +1,21 @@
+What is specificity in css.
+
+what is cascade rule in css.
+
+the cascade rule and specificity are same in css.
+
+when you use id and class in same element so which css apply
+
+which css selector has the highest specificity
+
+box model in css
+
+box model property box sizing and box content
+
+fixed property how does it work in css
+
+what is the difference between fixed and absolute positioning
+
+if i use my name as tage in html so what heppand ?
+
+difference between inline and block elements
